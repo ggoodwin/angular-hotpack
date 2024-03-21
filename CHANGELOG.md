@@ -29,6 +29,6 @@ This project adheres to [Semantic Versioning].
 [semantic versioning]: https://semver.org/spec/v2.0.0.html
 
 <!-- Version -->
-[unreleased]: https://github.com/ggoodwin/angular-hotpack/compare/v1.0.1...Develop
-[1.0.1]: https://github.com/ggoodwin/angular-hotpack/compare/v1.0.0...v1.0.1
-[1.0.0]: https://github.com/ggoodwin/angular-hotpack/releases/tag/v1.0.0
+[unreleased]: https://github.com/ggoodwin/angular-hotpack/compare/v.1.0.1...develop
+[1.0.1]: https://github.com/ggoodwin/angular-hotpack/compare/v1.0.0...v.1.0.1
+[1.0.0]: https://github.com/ggoodwin/angular-hotpack/tree/v1.0.0

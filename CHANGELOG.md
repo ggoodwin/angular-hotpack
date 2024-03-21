@@ -9,6 +9,12 @@ This project adheres to [Semantic Versioning].
 
 - Will list future updates here
 
+## [1.0.1] - 2024-03-21
+
+### Updated
+
+- Metadata update
+
 ## [1.0.0] - 2024-03-20
 
 ### Initial Release

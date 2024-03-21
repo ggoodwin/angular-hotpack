@@ -8,79 +8,77 @@
     "theme": "dark"
   },
   "license": "SEE LICENSE IN LICENSE.md",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "ggoodwin",
   "preview": false,
+  "pricing": "Free",
   "engines": {
     "vscode": "^1.50.0"
   },
   "keywords": [
     "Angular",
     "TypeScript",
+    "JavaScript",
     "SCSS",
     "JSON",
-		"HTML",
+    "HTML",
     "XML"
   ],
   "categories": [
     "Extension Packs"
   ],
   "repository": {
-		"type": "git",
-		"url": "https://github.com/ggoodwin/angular-hotpack"
+    "type": "git",
+    "url": "https://github.com/ggoodwin/angular-hotpack"
   },
   "homepage": "https://greggoodwin.com",
-	"bugs": {
-		"url": "https://github.com/ggoodwin/angular-hotpack"
+  "bugs": {
+    "url": "https://github.com/ggoodwin/angular-hotpack/issues?q=label%3Abug"
   },
   "scripts": {
     "package": "npx vsce package",
     "publish": "npx vsce publish"
   },
-	"extensionPack": [ 
-		"angular.ng-template",
-		"cyrilletuzi.angular-schematics",
-		"johnpapa.angular2",
-		"formulahendry.auto-close-tag",
-		"kevinkyang.auto-comment-blocks",
-		"steoates.autoimport",
-		"formulahendry.auto-rename-tag",
-		"aaron-bond.better-comments",
-		"AnbuselvanRocky.bootstrap5-vscode",
-		"kisstkondoros.vscode-codemetrics",
-		"streetsidesoftware.code-spell-checker",
-		"pranaygp.vscode-css-peek",
-		"ms-azuretools.vscode-docker",
-		"usernamehw.errorlens",
-		"dbaeumer.vscode-eslint",
-		"HashiCorp.terraform",
-		"vincaslt.highlight-matching-tag",
-		"ecmel.vscode-html-css",
-		"ZainChen.json",
-		"ms-edgedevtools.vscode-edge-devtools",
-		"stringham.move-ts",
-		"bengreenier.vscode-node-readme",
-		"christian-kohler.npm-intellisense",
-		"quicktype.quicktype",
-		"christian-kohler.path-intellisense",
-		"esbenp.prettier-vscode",
-		"rvest.vs-code-prettier-eslint",
-		"mohsen1.prettify-json",
-		"sibiraj-s.vscode-scss-formatter",
-		"mrmlnc.vscode-scss",
-		"pmneo.tsimporter",
-		"redhat.vscode-xml",
-		"DotJoshJohnson.xml",
-		"redhat.vscode-yaml"
-	],
-	"__metadata": {
-		"publisherId": "3ea8aec6-eb0b-4a64-bf6a-f7675b86b043",
-		"publisherDisplayName": "Greg Goodwin",
-		"targetPlatform": "undefined",
-		"isApplicationScoped": false,
-		"updated": true,
-		"isPreReleaseVersion": false,
-		"installedTimestamp": 1710960096,
-		"preRelease": false
-	}
+  "extensionPack": [
+    "angular.ng-template",
+    "cyrilletuzi.angular-schematics",
+    "johnpapa.angular2",
+    "formulahendry.auto-close-tag",
+    "kevinkyang.auto-comment-blocks",
+    "steoates.autoimport",
+    "formulahendry.auto-rename-tag",
+    "aaron-bond.better-comments",
+    "AnbuselvanRocky.bootstrap5-vscode",
+    "kisstkondoros.vscode-codemetrics",
+    "streetsidesoftware.code-spell-checker",
+    "pranaygp.vscode-css-peek",
+    "ms-azuretools.vscode-docker",
+    "usernamehw.errorlens",
+    "dbaeumer.vscode-eslint",
+    "HashiCorp.terraform",
+    "vincaslt.highlight-matching-tag",
+    "ecmel.vscode-html-css",
+    "ZainChen.json",
+    "ms-edgedevtools.vscode-edge-devtools",
+    "stringham.move-ts",
+    "bengreenier.vscode-node-readme",
+    "christian-kohler.npm-intellisense",
+    "quicktype.quicktype",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "rvest.vs-code-prettier-eslint",
+    "mohsen1.prettify-json",
+    "sibiraj-s.vscode-scss-formatter",
+    "mrmlnc.vscode-scss",
+    "pmneo.tsimporter",
+    "redhat.vscode-xml",
+    "DotJoshJohnson.xml",
+    "redhat.vscode-yaml"
+  ],
+  "__metadata": {
+    "publisherId": "3ea8aec6-eb0b-4a64-bf6a-f7675b86b043",
+    "publisherDisplayName": "Greg Goodwin",
+    "updated": true,
+    "isPreReleaseVersion": false
+  }
 }

@@ -28,7 +28,7 @@ This extension pack includes the following extensions:
 | Better Comments         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/aaron-bond.better-comments)](https://img.shields.io/visual-studio-marketplace/i/aaron-bond.better-comments)                 |
 | Bootstrap 5 Snippets         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/AnbuselvanRocky.bootstrap5-vscode)](https://img.shields.io/visual-studio-marketplace/i/AnbuselvanRocky.bootstrap5-vscode)                 |
 | CodeMetrics         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/kisstkondoros.vscode-codemetrics)](https://img.shields.io/visual-studio-marketplace/i/kisstkondoros.vscode-codemetrics)                 |
-| Code Spell Checker         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/kisstkondoros.vscode-codemetrics)](https://img.shields.io/visual-studio-marketplace/i/kisstkondoros.vscode-codemetrics)                 |
+| Code Spell Checker         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/streetsidesoftware.code-spell-checker)](https://img.shields.io/visual-studio-marketplace/i/streetsidesoftware.code-spell-checker)                 |
 | CSS Peek         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/pranaygp.vscode-css-peek)](https://img.shields.io/visual-studio-marketplace/i/pranaygp.vscode-css-peek)                 |
 | Error Lens         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/usernamehw.errorlens)](https://img.shields.io/visual-studio-marketplace/i/usernamehw.errorlens)                 |
 | ESLint         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/dbaeumer.vscode-eslint)](https://img.shields.io/visual-studio-marketplace/i/dbaeumer.vscode-eslint)                 |
@@ -53,7 +53,7 @@ This extension pack includes the following extensions:
 
 ## For more information
 
-* [Contact Greg](mailto:ggoodwin@jminsure.com)
+* [Contact Greg](mailto:gh@ggn.dev)
 
 **Enjoy!**
 

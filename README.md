@@ -75,8 +75,6 @@ This extension pack includes the following extensions:
 | SCSS Formatter        | [![Installs](https://img.shields.io/visual-studio-marketplace/i/sibiraj-s.vscode-scss-formatter)](https://img.shields.io/visual-studio-marketplace/i/sibiraj-s.vscode-scss-formatter)                 |
 | SCSS Intellisense        | [![Installs](https://img.shields.io/visual-studio-marketplace/i/mrmlnc.vscode-scss)](https://img.shields.io/visual-studio-marketplace/i/mrmlnc.vscode-scss)                 |
 | TypeScript Importer        | [![Installs](https://img.shields.io/visual-studio-marketplace/i/pmneo.tsimporter)](https://img.shields.io/visual-studio-marketplace/i/pmneo.tsimporter)                 |
-| XML        | [![Installs](https://img.shields.io/visual-studio-marketplace/i/redhat.vscode-xml)](https://img.shields.io/visual-studio-marketplace/i/redhat.vscode-xml)                 |
-| XML Tools       | [![Installs](https://img.shields.io/visual-studio-marketplace/i/DotJoshJohnson.xml)](https://img.shields.io/visual-studio-marketplace/i/DotJoshJohnson.xml)                 |
 | YAML       | [![Installs](https://img.shields.io/visual-studio-marketplace/i/redhat.vscode-yaml)](https://img.shields.io/visual-studio-marketplace/i/redhat.vscode-yaml)                 |
 
 **Enjoy!**

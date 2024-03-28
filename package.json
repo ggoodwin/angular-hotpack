@@ -8,7 +8,7 @@
     "theme": "dark"
   },
   "license": "SEE LICENSE IN LICENSE.md",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "ggoodwin",
   "preview": false,
   "pricing": "Free",
@@ -18,11 +18,9 @@
   "keywords": [
     "Angular",
     "TypeScript",
-    "JavaScript",
     "SCSS",
     "JSON",
-    "HTML",
-    "XML"
+    "HTML"
   ],
   "categories": [
     "Extension Packs"
@@ -69,8 +67,6 @@
     "sibiraj-s.vscode-scss-formatter",
     "mrmlnc.vscode-scss",
     "pmneo.tsimporter",
-    "redhat.vscode-xml",
-    "DotJoshJohnson.xml",
     "redhat.vscode-yaml"
   ],
   "__metadata": {

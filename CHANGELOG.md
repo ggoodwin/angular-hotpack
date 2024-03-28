@@ -9,6 +9,19 @@ This project adheres to [Semantic Versioning].
 
 - Will list future updates here
 
+## [1.0.3] - 2024-03-28
+
+### Added
+
+- EditorConfig
+
+### Removed
+
+- ESLint
+- Prettier
+- ESLint + Prettier
+- XML Tools
+
 ## [1.0.2] - 2024-03-23
 
 ### Updated

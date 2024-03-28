@@ -1,8 +1,38 @@
-# VSCode Angular Hotpack
+<div align="center">
+ <h1><img alt="Angular logo" src="https://github.com/ggoodwin//blob/master/icon.webp?raw=true" height="300" /><br />
+  Angular Hotpack 2024 for VS Code
+ </h1>
+  
+<h3 align="center">
+  <samp>&gt; Hey There!, I am
+    <b><a target="_blank" href="https://greggoodwin.com">Greg Goodwin</a></b>
+  </samp>
+</h3>
 
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/ggoodwin.angular-hotpack)](https://img.shields.io/visual-studio-marketplace/i/ggoodwin.angular-hotpack)
+<div align="center">
 
-[![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?color=blue&style=flat-square)](http://opensource.org/licenses/MIT)
+#### Profiles
+
+[![greggoodwin](https://img.shields.io/badge/greggoodwin.com-663399?style=for-the-badge&logo=gatsby&logoColor=white)](https://greggoodwin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ggn.sh/li)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://ggn.sh/x)
+
+#### Messaging
+
+[![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://ggn.sh/skype)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://ggn.sh/tg)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://ggn.sh/wa)
+[![GMan#0001](https://dcbadge.vercel.app/api/shield/179795086543028224)](https://discord.id/?prefill=179795086543028224)
+</div>
+<br>
+
+<h2>Repo Info</h2>
+
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/ggoodwin.angular-hotpack)](https://img.shields.io/visual-studio-marketplace/i/ggoodwin.angular-hotpack) ![Size](https://img.shields.io/github/languages/code-size/ggoodwin/angular-hotpack) [![Last Commit](https://img.shields.io/github/last-commit/ggoodwin/angular-hotpack)](https://github.com/ggoodwin/angular-hotpack/commits/master) [![License](https://img.shields.io/github/license/ggoodwin/angular-hotpack)](https://github.com/ggoodwin/angular-hotpack/blob/master/LICENSE.md)
+
+</div>
+
+# Angular Hotpack 2024 for VS Code
 
 This extension pack for Visual Studio Code adds extensions that are useful for Angular development.
 
@@ -30,8 +60,8 @@ This extension pack includes the following extensions:
 | CodeMetrics         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/kisstkondoros.vscode-codemetrics)](https://img.shields.io/visual-studio-marketplace/i/kisstkondoros.vscode-codemetrics)                 |
 | Code Spell Checker         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/streetsidesoftware.code-spell-checker)](https://img.shields.io/visual-studio-marketplace/i/streetsidesoftware.code-spell-checker)                 |
 | CSS Peek         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/pranaygp.vscode-css-peek)](https://img.shields.io/visual-studio-marketplace/i/pranaygp.vscode-css-peek)                 |
+| EditorConfig         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/editorconfig.editorconfig)](https://img.shields.io/visual-studio-marketplace/i/editorconfig.editorconfig)                 |
 | Error Lens         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/usernamehw.errorlens)](https://img.shields.io/visual-studio-marketplace/i/usernamehw.errorlens)                 |
-| ESLint         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/dbaeumer.vscode-eslint)](https://img.shields.io/visual-studio-marketplace/i/dbaeumer.vscode-eslint)                 |
 | HashiCorp Terraform         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/HashiCorp.terraform)](https://img.shields.io/visual-studio-marketplace/i/HashiCorp.terraform)                 |
 | Highlight Matching Tag         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/vincaslt.highlight-matching-tag)](https://img.shields.io/visual-studio-marketplace/i/vincaslt.highlight-matching-tag)                 |
 | HTML CSS Support         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ecmel.vscode-html-css)](https://img.shields.io/visual-studio-marketplace/i/ecmel.vscode-html-css)                 |
@@ -41,8 +71,6 @@ This extension pack includes the following extensions:
 | NPM Intellisense         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/christian-kohler.npm-intellisense)](https://img.shields.io/visual-studio-marketplace/i/christian-kohler.npm-intellisense)                 |
 | Paste JSON as Code         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/quicktype.quicktype)](https://img.shields.io/visual-studio-marketplace/i/quicktype.quicktype)                 |
 | Path Intellisense         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/christian-kohler.path-intellisense)](https://img.shields.io/visual-studio-marketplace/i/christian-kohler.path-intellisense)                 |
-| Prettier         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/esbenp.prettier-vscode)](https://img.shields.io/visual-studio-marketplace/i/esbenp.prettier-vscode)                 |
-| Prettier ESLint        | [![Installs](https://img.shields.io/visual-studio-marketplace/i/rvest.vs-code-prettier-eslint)](https://img.shields.io/visual-studio-marketplace/i/rvest.vs-code-prettier-eslint)                 |
 | Prettify JSON        | [![Installs](https://img.shields.io/visual-studio-marketplace/i/mohsen1.prettify-json)](https://img.shields.io/visual-studio-marketplace/i/mohsen1.prettify-json)                 |
 | SCSS Formatter        | [![Installs](https://img.shields.io/visual-studio-marketplace/i/sibiraj-s.vscode-scss-formatter)](https://img.shields.io/visual-studio-marketplace/i/sibiraj-s.vscode-scss-formatter)                 |
 | SCSS Intellisense        | [![Installs](https://img.shields.io/visual-studio-marketplace/i/mrmlnc.vscode-scss)](https://img.shields.io/visual-studio-marketplace/i/mrmlnc.vscode-scss)                 |
@@ -50,10 +78,6 @@ This extension pack includes the following extensions:
 | XML        | [![Installs](https://img.shields.io/visual-studio-marketplace/i/redhat.vscode-xml)](https://img.shields.io/visual-studio-marketplace/i/redhat.vscode-xml)                 |
 | XML Tools       | [![Installs](https://img.shields.io/visual-studio-marketplace/i/DotJoshJohnson.xml)](https://img.shields.io/visual-studio-marketplace/i/DotJoshJohnson.xml)                 |
 | YAML       | [![Installs](https://img.shields.io/visual-studio-marketplace/i/redhat.vscode-yaml)](https://img.shields.io/visual-studio-marketplace/i/redhat.vscode-yaml)                 |
-
-## For more information
-
-* [Contact Greg](mailto:gh@ggn.dev)
 
 **Enjoy!**
 

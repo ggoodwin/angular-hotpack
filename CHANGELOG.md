@@ -7,7 +7,9 @@ This project adheres to [Semantic Versioning].
 
 ## [Unreleased]
 
-- Will list future updates here
+### Changes
+
+- Fixed Compare Links in Changelog
 
 ## [1.0.4] - 2024-03-29
 
@@ -67,9 +69,9 @@ This project adheres to [Semantic Versioning].
 [semantic versioning]: https://semver.org/spec/v2.0.0.html
 
 <!-- Version -->
-[unreleased]: https://github.com/ggoodwin/angular-hotpack/compare/v.1.0.4...develop
-[1.0.4]: https://github.com/ggoodwin/angular-hotpack/compare/v1.0.3...v.1.0.4
-[1.0.3]: https://github.com/ggoodwin/angular-hotpack/compare/v1.0.2...v.1.0.3
-[1.0.2]: https://github.com/ggoodwin/angular-hotpack/compare/v1.0.1...v.1.0.2
-[1.0.1]: https://github.com/ggoodwin/angular-hotpack/compare/v1.0.0...v.1.0.1
+[unreleased]: https://github.com/ggoodwin/angular-hotpack/compare/v1.0.4...develop
+[1.0.4]: https://github.com/ggoodwin/angular-hotpack/compare/v1.0.3...v1.0.4
+[1.0.3]: https://github.com/ggoodwin/angular-hotpack/compare/v1.0.2...v1.0.3
+[1.0.2]: https://github.com/ggoodwin/angular-hotpack/compare/v1.0.1...v1.0.2
+[1.0.1]: https://github.com/ggoodwin/angular-hotpack/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/ggoodwin/angular-hotpack/tree/v1.0.0

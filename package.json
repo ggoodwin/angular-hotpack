@@ -8,7 +8,7 @@
     "theme": "dark"
   },
   "license": "SEE LICENSE IN LICENSE.md",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "publisher": "ggoodwin",
   "preview": false,
   "pricing": "Free",
@@ -18,11 +18,9 @@
   "keywords": [
     "Angular",
     "TypeScript",
-    "JavaScript",
     "SCSS",
     "JSON",
-    "HTML",
-    "XML"
+    "HTML"
   ],
   "categories": [
     "Extension Packs"
@@ -52,6 +50,7 @@
     "kisstkondoros.vscode-codemetrics",
     "streetsidesoftware.code-spell-checker",
     "pranaygp.vscode-css-peek",
+    "editorconfig.editorconfig",
     "ms-azuretools.vscode-docker",
     "usernamehw.errorlens",
     "dbaeumer.vscode-eslint",
@@ -65,14 +64,12 @@
     "christian-kohler.npm-intellisense",
     "quicktype.quicktype",
     "christian-kohler.path-intellisense",
-    "esbenp.prettier-vscode",
     "rvest.vs-code-prettier-eslint",
+    "esbenp.prettier-vscode",
     "mohsen1.prettify-json",
     "sibiraj-s.vscode-scss-formatter",
     "mrmlnc.vscode-scss",
     "pmneo.tsimporter",
-    "redhat.vscode-xml",
-    "DotJoshJohnson.xml",
     "redhat.vscode-yaml"
   ],
   "__metadata": {

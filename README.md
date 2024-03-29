@@ -1,5 +1,5 @@
 <div align="center">
- <h1><img alt="Angular logo" src="https://github.com/ggoodwin//blob/master/icon.webp?raw=true" height="300" /><br />
+ <h1><img alt="Angular logo" src="https://raw.githubusercontent.com/ggoodwin/angular-hotpack/master/icon.webp" height="300" /><br />
   Angular Hotpack 2024 for VS Code
  </h1>
   
@@ -62,6 +62,7 @@ This extension pack includes the following extensions:
 | CSS Peek         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/pranaygp.vscode-css-peek)](https://img.shields.io/visual-studio-marketplace/i/pranaygp.vscode-css-peek)                 |
 | EditorConfig         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/editorconfig.editorconfig)](https://img.shields.io/visual-studio-marketplace/i/editorconfig.editorconfig)                 |
 | Error Lens         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/usernamehw.errorlens)](https://img.shields.io/visual-studio-marketplace/i/usernamehw.errorlens)                 |
+| ESLint         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/dbaeumer.vscode-eslint)](https://img.shields.io/visual-studio-marketplace/i/dbaeumer.vscode-eslint)                 |
 | HashiCorp Terraform         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/HashiCorp.terraform)](https://img.shields.io/visual-studio-marketplace/i/HashiCorp.terraform)                 |
 | Highlight Matching Tag         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/vincaslt.highlight-matching-tag)](https://img.shields.io/visual-studio-marketplace/i/vincaslt.highlight-matching-tag)                 |
 | HTML CSS Support         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/ecmel.vscode-html-css)](https://img.shields.io/visual-studio-marketplace/i/ecmel.vscode-html-css)                 |
@@ -71,6 +72,8 @@ This extension pack includes the following extensions:
 | NPM Intellisense         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/christian-kohler.npm-intellisense)](https://img.shields.io/visual-studio-marketplace/i/christian-kohler.npm-intellisense)                 |
 | Paste JSON as Code         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/quicktype.quicktype)](https://img.shields.io/visual-studio-marketplace/i/quicktype.quicktype)                 |
 | Path Intellisense         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/christian-kohler.path-intellisense)](https://img.shields.io/visual-studio-marketplace/i/christian-kohler.path-intellisense)                 |
+| Prettier         | [![Installs](https://img.shields.io/visual-studio-marketplace/i/esbenp.prettier-vscode)](https://img.shields.io/visual-studio-marketplace/i/esbenp.prettier-vscode)                 |
+| Prettier ESLint        | [![Installs](https://img.shields.io/visual-studio-marketplace/i/rvest.vs-code-prettier-eslint)](https://img.shields.io/visual-studio-marketplace/i/rvest.vs-code-prettier-eslint)                 |
 | Prettify JSON        | [![Installs](https://img.shields.io/visual-studio-marketplace/i/mohsen1.prettify-json)](https://img.shields.io/visual-studio-marketplace/i/mohsen1.prettify-json)                 |
 | SCSS Formatter        | [![Installs](https://img.shields.io/visual-studio-marketplace/i/sibiraj-s.vscode-scss-formatter)](https://img.shields.io/visual-studio-marketplace/i/sibiraj-s.vscode-scss-formatter)                 |
 | SCSS Intellisense        | [![Installs](https://img.shields.io/visual-studio-marketplace/i/mrmlnc.vscode-scss)](https://img.shields.io/visual-studio-marketplace/i/mrmlnc.vscode-scss)                 |

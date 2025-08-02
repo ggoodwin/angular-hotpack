@@ -1,6 +1,6 @@
 {
   "name": "angular-hotpack",
-  "displayName": "Angular Hotpack 2024",
+  "displayName": "Angular Hotpack",
   "description": "Best Angular and Web Extensions",
   "icon": "icon.webp",
   "galleryBanner": {
@@ -8,7 +8,7 @@
     "theme": "dark"
   },
   "license": "SEE LICENSE IN LICENSE.md",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publisher": "ggoodwin",
   "preview": false,
   "pricing": "Free",

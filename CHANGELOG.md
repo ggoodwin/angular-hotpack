@@ -7,9 +7,10 @@ This project adheres to [Semantic Versioning].
 
 ## [Unreleased]
 
-### Changes
+### Changed
 
-- Fixed Compare Links in Changelog
+- Gitignore
+- Base List of Extensions
 
 ## [1.0.4] - 2024-03-29
 

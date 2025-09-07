@@ -2,10 +2,10 @@
  <h1><img alt="Angular logo" src="https://raw.githubusercontent.com/ggoodwin/angular-hotpack/master/icon.webp" height="300" /><br />
   Angular Hotpack 2024 for VS Code
  </h1>
-  
+
 <h3 align="center">
   <samp>&gt; Hey There!, I am
-    <b><a target="_blank" href="https://greggoodwin.com">Greg Goodwin</a></b>
+    <b><a target="_blank" href="https://ggn.dev">Greg Goodwin</a></b>
   </samp>
 </h3>
 
